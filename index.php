@@ -20,7 +20,7 @@
     <body id="page-top">
 
 
-
+    
 
 
 
@@ -48,7 +48,7 @@
 
 
 
-
+        
 
 
 
@@ -69,6 +69,9 @@
                 </div>
                 <!-- Masthead Subheading-->
                 <p class="masthead-subheading font-weight-light mb-0">We Buy Your Unwanted Items</p>
+
+                
+
             </div>
         </header>
 
@@ -319,7 +322,12 @@
         </footer>
         <!-- Copyright Section-->
         <div class="copyright py-4 text-center text-white">
-            <div class="container"><small>Copyright © Snexo <?php echo date("Y"); ?></small></div>
+            <div class="container"><small>Copyright © Snexo <?php echo date("Y"); ?><?php
+
+include_once "assets/analytics/analytics.php";
+
+?></small></div>
+                
         </div>
         <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes)-->
         <div class="scroll-to-top d-lg-none position-fixed">
