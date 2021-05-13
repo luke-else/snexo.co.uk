@@ -33,7 +33,7 @@
 
                         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                         <div class="card-body">
-                            Snexo covers a majority of Kent. We prioritise areas such as Ashford, Maidstone, Tonebridge Wells and folkestone but also have clients further afield. If you are unsure whether you are in an area we cover just get in touch and we'll be happy to give you more information.
+                            Snexo covers a majority of Kent. We prioritise areas such as Ashford, Maidstone, Tunbridge Wells and Folkestone but also have clients further afield. If you are unsure whether you are in an area we cover just get in touch and we'll be happy to give you more information.
                         </div>
                         </div>
                     </div>
