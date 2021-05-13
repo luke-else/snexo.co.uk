@@ -4,16 +4,15 @@
 
     if($conn->connect_errno){
 
-        echo "<h6>Error: $conn->connect_error </h6>";
+        echo "<script>console.log('Failure to connect to database')</script>";
 
     }else{
 
-        $currentAddress = $_SERVER['REMOTE_ADDR'];
         $dateTime = date('d/m/Y H:i:s');
 
         echo "<h6> $dateTime </h6>";
 
-        $sqlquery = "INSERT INTO VisitTime (IPAddress, DateTime) VALUES ('$currentAddress', '$dateTime')";
+        $sqlquery = "INSERT INTO VisitTime (DateTime) VALUES ('$dateTime')";
 
         $result = $conn -> query($sqlquery);
 
