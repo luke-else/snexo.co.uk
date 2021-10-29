@@ -34,7 +34,7 @@
                     <li class="list-group-item list-group-item-primary">Collectors Items</li>
                     <li class="list-group-item list-group-item-primary">Toys</li>
                     <li class="list-group-item list-group-item-primary">Memorabilia</li>
-                    <li class="list-group-item list-group-item-primary">Military / Camping / Camping Gear </li>
+                    <li class="list-group-item list-group-item-primary">Military / Camping Gear </li>
 
                 </ul>
 

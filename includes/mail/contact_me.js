@@ -57,7 +57,7 @@ $(function () {
                         $("<strong>").text(
                             "Sorry " +
                                 firstName +
-                                ", an error occured! Please try again!"
+                                ", an error occured! Please try again or mail enquiries@snexo.co.uk directly!"
                         )
                     );
                     $("#success > .alert-danger").append("</div>");

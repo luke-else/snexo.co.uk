@@ -39,7 +39,7 @@
         </div>
         <!-- About Section Content-->
         <div class="row">
-            <div class="col-lg-4 ml-auto"><p class="lead">Snexo is a Kent based Clearance Solution specialising in contents evaluation and removal. Our aim is to breathe new life into your old unwanted posessions. We hate nothing more than to see goods going into landfill and so we are going out of our way to recycle and re-purpose everyday household items from old clothes all the way to furniture and electrical items.</p></div>
+            <div class="col-lg-4 ml-auto"><p class="lead">Snexo is a Kent based Clearance Solution specialising in contents evaluation and removal. Our aim is to breathe new life into your old unwanted possessions. We hate nothing more than to see goods going into landfill and so we are going out of our way to recycle and re-purpose everyday household items from old clothes all the way to furniture and electrical items.</p></div>
             <div class="col-lg-4 mr-auto"><p class="lead">Not only do we stop your old items from going to waste, but we actually save you time too! There is no need to worry about pricing up your contents and trying to sell it on; we do all the work for you. We have years of market experience and know the trends in items and so we are prepared to make reasonable offers in exchange for you possessions.</p></div>
         </div>
         <!-- About Section Button-->

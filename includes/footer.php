@@ -20,7 +20,7 @@
                         <h4 class="text-uppercase mb-4">Around the Web</h4>
                         <a class="btn btn-outline-light btn-social mx-1" href="tel:07726305634"><i class="fas fa-fw fa-phone"></i></a>
                         <a class="btn btn-outline-light btn-social mx-1" href="mailto:enquiries@snexo.co.uk"><i class="fas fa-fw fa-envelope"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/Snexo-House-Clearance-104756191869048"><i class="fab fa-fw fa-facebook-f"></i></a>
                     </div>
                     <!-- Footer About Text-->
                     <div class="col-lg-4">
