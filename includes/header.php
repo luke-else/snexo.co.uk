@@ -17,7 +17,7 @@
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
         <!--<link href="css/scroll-behaviour.css" rel="stylesheet" /> -->
-        <?php include_once "analytics/analytics.php"; ?>
+        <?php //include_once "analytics/analytics.php"; ?>
         
     </head>
     <body id="page-top">
